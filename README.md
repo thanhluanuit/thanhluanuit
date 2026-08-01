@@ -1,8 +1,13 @@
-# Hi, I'm Luan Nguyen
+<div align="center">
+<h1>Hi, I'm Luan Nguyen 👋</h1>
+<p><strong>Engineering Manager · Software Architecture</strong></p>
 
-**Engineering Manager · Software Architecture**
-
-[LinkedIn](https://linkedin.com/in/luannt) · [Medium](https://medium.com/@luanotes)
+<p>
+  <a href="https://linkedin.com/in/luannt">LinkedIn</a>
+  ·
+  <a href="https://medium.com/@luanotes">Medium</a>
+</p>
+</div>
 
 ---
 
