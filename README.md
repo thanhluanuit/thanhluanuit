@@ -16,8 +16,8 @@
 * Engineering Manager with 13+ years of software engineering experience.
 * Helped build and scale [**ITviec**](https://itviec.com/) from an early-stage startup into a leading IT recruitment platform in Vietnam.
 * Focused on engineering leadership, software architecture, backend systems, reliability, and security.
-* Remain hands-on with system design, code reviews, performance optimization, and critical technical decisions.
-* Currently exploring AI-powered products, agentic engineering and security.
+* Hands-on with system design, code reviews, performance optimization, and critical technical decisions.
+* Building AI-powered recruitment products and AI-assisted engineering workflows.
 
 ---
 
