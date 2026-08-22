@@ -21,11 +21,19 @@
 
 ---
 
+### Projects
+
+* [Instuigram](https://github.com/thanhluanuit/instuigram) — An Instagram clone built with Ruby on Rails
+* Created [**Học Ruby on Rails Căn Bản**](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban/) course on **Udemy**, reaching **2,100+ students** with 4.5-star rating.
+* Authored [**Build Instagram with Ruby on Rails**](https://medium.com/luanotes/build-instagram-by-ruby-on-rails-part-1-fef7837ee399) tutorial series on **Medium**, reaching **10,000+ reads** and  **3,000+ claps**.
+
+---
+
 ### Core Expertise
 
 #### Leadership & Architecture
 
-Engineering management, technical strategy, system design, scalable architecture, mentoring, technical decision-making, and DORA metrics.
+Engineering management, technical strategy, system design, system architecture, mentoring, DORA metrics.
 
 #### Backend Engineering
 
@@ -42,10 +50,3 @@ OWASP ASVS, OWASP Top 10, Secure architecture, Vulnerability Management, Penetra
 #### AI & Search
 
 LLM integration, RAG, embeddings, Vector Search, Hybrid Search, AI Evaluation, and Agentic Workflows.
-
----
-
-### Courses & Writing
-
-* Created [**Học Ruby on Rails Căn Bản**](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban/) course on **Udemy**, reaching **2,100+ students** with 4.5-star rating.
-* Authored [**Build Instagram with Ruby on Rails**](https://medium.com/luanotes/build-instagram-by-ruby-on-rails-part-1-fef7837ee399) tutorial series on **Medium**, reaching **10,000+ reads** and  **3,000+ claps**.
