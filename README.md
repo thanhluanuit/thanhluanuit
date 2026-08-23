@@ -15,8 +15,7 @@
 
 * Engineering Manager with 13+ years of software engineering experience.
 * Helped build and scale [**ITviec**](https://itviec.com/) from an early-stage startup into a leading IT recruitment platform in Vietnam.
-* Focused on engineering leadership, software architecture, backend systems, reliability, and security.
-* Hands-on with system design, code reviews, performance optimization, and critical technical decisions.
+* Hands-on with system design, backend architecture, reliability, security, performance, and critical technical decisions.
 * Building AI-powered recruitment products and AI-assisted engineering workflows.
 
 ---
@@ -34,11 +33,15 @@
 
 #### Leadership & Architecture
 
-Engineering management, technical strategy, system design, system architecture, mentoring, DORA metrics.
+Engineering Management, Technical Strategy, Software Architecture, System Design, Mentoring, and DORA Metrics.
 
 #### Backend Engineering
 
 Ruby, Ruby on Rails, REST APIs, PostgreSQL, Redis, Elasticsearch, Sidekiq, Caching, and Performance Optimization.
+
+#### AI & Search
+
+LLM Integration, Prompt Engineering, RAG, Embeddings, Vector Search, Hybrid Search, AI Evaluation, and AI-assisted Engineering Workflows.
 
 #### Cloud & Reliability
 
@@ -47,7 +50,3 @@ AWS, GCP, Cloudflare, CI/CD, Observability, Incident Response, and Production Op
 #### Security Engineering
 
 OWASP ASVS, OWASP Top 10, Secure architecture, Vulnerability Management, Penetration Testing, and AWS Security Hub.
-
-#### AI & Search
-
-LLM integration, RAG, embeddings, Vector Search, Hybrid Search, AI Evaluation, and Agentic Workflows.
