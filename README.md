@@ -24,6 +24,7 @@
 ### Projects
 
 * Build [**Instuigram**](https://github.com/thanhluanuit/instuigram) — Helps developers learn Ruby on Rails through building an Instagram-like application, covering authentication, background jobs, caching, search, real-time updates, APIs, testing, and CI.
+* Build [**Agentic Engineering**](https://github.com/thanhluanuit/agentic-engineering) — Practical AI-assisted engineering workflows with reusable rules and agent skills for code review, security, performance, and testing.
 * Created [**Học Ruby on Rails Căn Bản**](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban/) course on **Udemy**, reaching **2,100+ students** with 4.5-star rating.
 * Authored [**Build Instagram with Ruby on Rails**](https://medium.com/luanotes/build-instagram-by-ruby-on-rails-part-1-fef7837ee399) tutorial series on **Medium**, reaching **10,000+ reads** and  **3,000+ claps**.
 
